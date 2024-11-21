@@ -3,7 +3,7 @@ name: List Files on Main Commit
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   list-files:
