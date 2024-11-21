@@ -1,0 +1,10 @@
+awscli
+requests
+flask
+matplotlib
+#pandas
+#numpy
+selenium
+
+# in terminal type "pip install -r requirements.txt"
+
